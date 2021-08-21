@@ -24,5 +24,6 @@ I am a Data Analyst Coordinator, a student of Data Science, who has worked for a
 - Growth Marketing - CXL Institute
 - Data Analyst Coordinator at Ogilvy e Mather agency. 
 
-## :open_file_folder: Visual Portfólio
+## :open_file_folder: Personal Portfólio
 - [website](https://diegoalves-data.github.io/diego-alves.github.io/) :link:
+- [Bordeaux: a cidade do Vinho e da boa hospedagem - Uma Análise do Airbnb] (https://github.com/DiegoAlves-data/DiegoAlves-data/blob/master/Dados_airbnb_Bordeaux.ipynb)
